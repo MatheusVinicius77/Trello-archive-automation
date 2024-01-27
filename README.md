@@ -3,7 +3,7 @@
 
 Usando o trello, percebi que não há uma funcionalidade de apagar todos os itens arquivados de uma vez só, e se você como eu arquiva muitos itens vai chegar uma hora que terá mais de 20 itens arquivados e apagar um por um talvez tome algum tempo. Então fiz um script simples para apagar todos de uma vez.
 
-## ESSE SCRIPT APAGA TODOS OS CARDS ARQUIVADOS, TOME CUIDADO SE TIVER ALGUM CARD QUE VOCÊ NÃO QUER QUE SEJA APAGADO!
+## ESTE SCRIPT DELETA TODOS OS CARDS ARQUIVADOS. TENHA CUIDADO, POIS PODE EXISTIR ALGUM CARD QUE VOCÊ NÃO DESEJE APAGAR!
 
 ## PASSO A PASSO:
 
