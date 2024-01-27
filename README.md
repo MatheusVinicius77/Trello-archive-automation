@@ -7,9 +7,9 @@ Usando o trello, percebi que não há uma funcionalidade de apagar todos os iten
 
 ## PASSO A PASSO:
 
-*Abra seu quadro no trello
-*Entre nos itens arquivados
-*Abra o console do dev tools (f12)
-*Cole o script e seja feliz
+* Abra seu quadro no trello
+* Entre nos itens arquivados
+* Abra o console do dev tools (f12)
+* Cole o script e seja feliz
 
 ![image](https://github.com/MatheusVinicius77/Trello-archive-automation/assets/75319396/26e69829-b109-4db8-8623-66e39725f4ec)
